@@ -4,7 +4,7 @@ A modern, interactive restaurant website built with HTML, CSS, and JavaScript. T
 
 ## � Live Demo
 
-🔗 **[View Live Website](https://reezmahanan.github.io/TasteVerse/)**
+🔗 **[View Live Website](https://reezmahanan.github.io/Taste-Verse/)**
 
 ## 📸 Screenshot
 
