@@ -4,13 +4,14 @@ A modern, interactive restaurant website built with HTML, CSS, and JavaScript. T
 
 ## � Live Demo
 
-🔗 **[View Live Website](https://reezmahanaan.github.io/TasteVerse/)**
+🔗 **[View Live Website](https://reezmahanan.github.io/TasteVerse/)**
 
 ## 📸 Screenshot
 
-![TasteVerse Website Screenshot](screenshot.png)
+![TasteVerse Website Screenshot](<img width="1883" height="904" alt="image" src="https://github.com/user-attachments/assets/96b69c0d-8eb7-4623-a1e3-665cf190fec4" />)
+![TasteVerse Website Screenshot](<img width="1883" height="911" alt="image" src="https://github.com/user-attachments/assets/eeb7dbe2-3df3-4b5b-abbe-92ac28d5de30" />)
+![TasteVerse Website Screenshot](<img width="1894" height="915" alt="Screenshot 2026-02-05 185404" src="https://github.com/user-attachments/assets/08f8b2bd-ec2b-428c-8e55-5df52e6540bb" />)
 
-> **Note:** Take a screenshot of your live website and save it as `screenshot.png` in the project folder, then push it to GitHub.
 
 ## �🌟 Features
 
